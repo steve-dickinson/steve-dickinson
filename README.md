@@ -1,9 +1,6 @@
-<img src="https://github.com/steve-dickinson/steve-dickinson/blob/main/steve-dickinson-github-banner.png" />
-
 <!-- Banner -->
-<h1 align="center">Hi, I'm Steve Dickinson 👋</h1>
+<img src="https://github.com/steve-dickinson/steve-dickinson/blob/main/steve-dickinson-github-banner.png" />
 <h3 align="center">Principal Developer @ Defra | AI, Modernisation & Technical Delivery</h3>
-
 ---
 
 ## 👨‍💻 About Me
