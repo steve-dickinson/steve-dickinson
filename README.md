@@ -1,4 +1,4 @@
-<img src="https://github.com/steve-dickinson/steve-dickinson/blob/main/steve-dickinson.png" />
+<img src="https://github.com/steve-dickinson/steve-dickinson/blob/main/steve-dickinson-github-banner.png" />
 
 <!-- Banner -->
 <h1 align="center">Hi, I'm Steve Dickinson 👋</h1>
