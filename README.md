@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h3 align="center">Principal Developer @ Defra | AI, Modernisation & Technical Delivery</h3>
-<img src="https://github.com/steve-dickinson/steve-dickinson/blob/main/steve-dickinson-github-banner.png" width="100%" alt="Steve Dickinson — Delivering Responsible AI, Agents & Modern Engineering Across Government">
+<img src="https://github.com/steve-dickinson/steve-dickinson/blob/main/steve-dickinson-github-banner_resized.png" width="100%" alt="Steve Dickinson — Delivering Responsible AI, Agents & Modern Engineering Across Government">
 
 ## 👨‍💻 About Me
 
