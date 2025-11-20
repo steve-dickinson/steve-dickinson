@@ -1,8 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://github.com/steve-dickinson/steve-dickinson/blob/main/steve-dickinson.png" width="100%" alt="Steve Dickinson — AI, Modernisation & Engineering · UK Gov">
-</p>
-
 <h1 align="center">Hi, I'm Steve Dickinson 👋</h1>
 <h3 align="center">Principal Developer @ Defra | AI, Modernisation & Technical Delivery</h3>
 
