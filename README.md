@@ -25,7 +25,9 @@ If you're interested in:
 - modern engineering patterns for public services  
 
 👉 **Follow my LinkedIn posts:**  
-https://www.linkedin.com/in/steven-dickinson-3b148989/
+- [LinkedIn Profile](https://www.linkedin.com/in/steven-dickinson-3b148989/)
+- [Automating the Routine - How Multi-Agent AI Could Empower Content Designers](https://www.linkedin.com/pulse/automating-routine-how-multi-agent-ai-could-empower-dickinson-gzcpe)
+- [I Didn’t Plan to Build an AI Agent on My Holiday… But It Taught Me Something Important](https://www.linkedin.com/pulse/i-didnt-plan-build-ai-agent-my-holiday-taught-me-steven-dickinson-chkre)
 
 ---
 
@@ -89,6 +91,12 @@ The goal is to make agentic systems **practical, safe, and production-ready** fo
 ---
 
 ## 🌟 Featured Work (Public Repos)
+
+- **[agentic-environmental-intelligence](https://github.com/steve-dickinson/agentic-environmental-intelligence)** 
+  An agentic AI proof-of-concept that monitors environmental data from UK government APIs (DEFRA/Environment Agency), detects anomalies, generates intelligent alerts using LangGraph and OpenAI, and provides an interactive Streamlit dashboard for incident visualization.
+
+- **[ai-multi-agent](https://github.com/steve-dickinson/ai-multi-agent)** 
+  Explores how AI agents could act as an intelligent pair-programmer for content designers. It uses a team of specialized agents to review content against style guides (inspired by GDS consistency standards) to ensure clarity and accessibility.
 
 - **[defra-ai-sdlc](https://github.com/DEFRA/defra-ai-sdlc)**  
   A comprehensive approach to building responsible, production-ready AI systems.  
