@@ -101,6 +101,9 @@ The goal is to make agentic systems **practical, safe, and production-ready** fo
 - **[ai-evaluation-testing-framework](https://github.com/steve-dickinson/ai-evaluation-testing-framework)**
   A comprehensive framework for testing, evaluating, and securing AI chatbots.
 
+- **[ai-daily-researcher](https://github.com/steve-dickinson/ai-daily-researcher)**
+  AI Daily Researcher is an autonomous, local-first tool that digests the flood of daily AI research
+
 - **[defra-ai-sdlc](https://github.com/DEFRA/defra-ai-sdlc)**  
   A comprehensive approach to building responsible, production-ready AI systems.  
   **Focus:** governance, engineering patterns, assurance, repeatability.
